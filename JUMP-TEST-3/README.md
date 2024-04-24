@@ -1,6 +1,6 @@
 # JUMP TEST 3 
 
-[HTML CODE LINK](https://github.com/rzvn332/JUMP/blob/main/JUMP-TEST-3/jump.html)<br>
+[HTML CODE LINK](https://github.com/rzvn332/JUMP/blob/main/JUMP-TEST-3/jump.html "download")<br>
 [CSS CODE LINK](https://github.com/rzvn332/JUMP/blob/main/JUMP-TEST-3/style.css)
 
 
